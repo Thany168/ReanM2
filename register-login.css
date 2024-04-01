@@ -17,7 +17,7 @@ html {
 }
 body {
   background: url("tnaot_bg.webp") no-repeat;
-  background-size: cover;
+  background-size: contain;
   font-family: "Poppins", sans-serif;
   height: auto;
   overflow-x: hidden;

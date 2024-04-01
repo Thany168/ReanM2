@@ -16,7 +16,7 @@ html {
   box-sizing: border-box;
 }
 body {
-  background: url("image/tnaot_bg.webp") no-repeat;
+  background: url("tnaot_bg.webp") no-repeat;
   background-size: cover;
   font-family: "Poppins", sans-serif;
   height: auto;

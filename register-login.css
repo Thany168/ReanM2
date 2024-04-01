@@ -20,7 +20,6 @@ body {
   background-size: cover;
   font-family: "Poppins", sans-serif;
   height: auto;
-  max-width: 100%;
   overflow-x: hidden;
 }
 a {
@@ -241,8 +240,7 @@ h5 {
 @media screen and (max-width: 885px) {
   body {
     height: 100vh;
-    max-width: 100%;
-    overflow-x: hidden;
+    width: 100vw;
   }
   .grid-login {
     width: 800px;
